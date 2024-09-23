@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @igwesamuel
-- 👀 I’m interested in Web3 and Artificial Intelligence
-- 🌱 I’m currently learning Web3, Blockchain Technology and Artificial Intelligence
-- 💞️ I’m looking to collaborate on any Web3 projects
+- 👀 I’m interested in the wonders of Data and Artificial Intelligence
+- 🌱 I’m currently learning Data Engineering, Data Analysis & Science, Blockchain Technology and Artificial Intelligence
+- 💞️ I’m looking to collaborate on any Data projects
 - 📫 How to reach me samueligwedc@gmail.com
 
 <!---
